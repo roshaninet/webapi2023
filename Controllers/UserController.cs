@@ -21,7 +21,7 @@ public class UserController : ControllerBase
     [HttpGet(Name = "GetWeathert")]
     public IEnumerable<WeatherForecast> Get()
     {
-        Console.WriteLine("Hello");
+        Console.WriteLine("Hello3213123321");
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
             Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
