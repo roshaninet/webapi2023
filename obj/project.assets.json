@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj",
+      "projectUniqueName": "d:\\webapi2023\\webapi2023.csproj",
       "projectName": "webapi2023",
-      "projectPath": "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj",
+      "projectPath": "d:\\webapi2023\\webapi2023.csproj",
       "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\githubprojects\\webapi2023\\obj\\",
+      "outputPath": "d:\\webapi2023\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",

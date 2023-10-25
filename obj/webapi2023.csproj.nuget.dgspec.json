@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj": {}
+    "D:\\webapi2023\\webapi2023.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj": {
+    "D:\\webapi2023\\webapi2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj",
+        "projectUniqueName": "D:\\webapi2023\\webapi2023.csproj",
         "projectName": "webapi2023",
-        "projectPath": "D:\\Projects\\githubprojects\\webapi2023\\webapi2023.csproj",
+        "projectPath": "D:\\webapi2023\\webapi2023.csproj",
         "packagesPath": "C:\\Users\\AsusIran\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\githubprojects\\webapi2023\\obj\\",
+        "outputPath": "D:\\webapi2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AsusIran\\AppData\\Roaming\\NuGet\\NuGet.Config",
