@@ -8,7 +8,7 @@ public class UserController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
     {
-        "FreezingS", "Shiraz", "Tehran", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "FreezingS", "Shiraz", "Tehran","test", "test2", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
     private readonly ILogger<WeatherForecastController> _logger;
@@ -21,6 +21,7 @@ public class UserController : ControllerBase
     [HttpGet(Name = "GetWeathert")]
     public IEnumerable<WeatherForecast> Get()
     {
+        Console.WriteLine("Hello");
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
             Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
